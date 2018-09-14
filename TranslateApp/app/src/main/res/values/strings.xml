@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Translate App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_translate">TranslateActivity</string>
+    <string-array name="Languages">
+        <item name="te">telugu</item>
+        <item name="ur">urdu</item>
+        <item name="mi">malyalam</item>
+        <item name="ta">tamil</item>
+
+    </string-array>
+</resources>
